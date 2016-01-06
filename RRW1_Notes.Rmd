@@ -69,5 +69,5 @@ table(predictedSpam, testSpam$type)
 (61+458)/(1346+458+61+449)
 ``` 
 
-
+##I am taking some additional notes here on how to use git hub so that I can do this first assignment for this class. 
 
